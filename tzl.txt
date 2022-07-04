@@ -1,5 +1,5 @@
 {
-"spider":"https://szxinhui508.github.io/tzlnewjiekou/tzlspider.jar",
+"spider":"clan://TVBox/tzlspider.jar",
 
 "sites": [
 {"key":"Bili","name":"哔哩套餐","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/bili.json"},
