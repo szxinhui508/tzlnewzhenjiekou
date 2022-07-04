@@ -15,9 +15,10 @@
   {"key":"小苹果","name":"小苹果","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1},
   {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_xpath_酷奇mv","name":"🎤酷奇MV","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/酷奇MV.json"},
+  //
 {"key":"csp_biubiu_真不卡zhenbuka3","name":"🐛真不卡1(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.244.195/tvmovie/0627/sub/biubiu/真不卡zhenbuka3(ns).json"},
 {"key":"csp_biubiu_真不卡cerrd","name":"🐛真不卡2(NS)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.244.195/tvmovie/0627/sub/biubiu/真不卡cerrd(ns).json"},
+//
 {"key":"csp_xpath_libv","name":"🦋LIBVIO","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/libv.json"},
 {"key":"csp_xpath_zxzj2","name":"🦋在线之家","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/zxzj2.json"},
 {"key":"csp_xpath_789kp","name":"🦋789看片","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/789kp.json"},
@@ -43,6 +44,7 @@
 {"key":"csp_xpath_jbb","name":"🦋剧白白","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/jubaibai.json"},
 {"key":"csp_xpath_独播库","name":"🦋独播库(系统播)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/duboku.json"},
 {"key":"csp_xpath_Ole","name":"🦋欧乐(Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/olevod.json"},
+//
 {"key":"csp_biubiu_LIBVIO","name":"🐛LIBVIO","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.244.195/tvmovie/0627/sub/biubiu/LIBVIO.json"},
 {"key":"csp_biubiu_影视工厂","name":"🐛影视工厂","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://118.190.244.195/tvmovie/0627/sub/biubiu/影视工厂.json"},
 {"key":"csp_biubiu_Lgyy","name":"🐛蓝光影院","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://118.190.244.195/tvmovie/0627/sub/xpath/lgyy.json"},
